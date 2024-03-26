@@ -14,6 +14,7 @@
 <h3 align="center"> 📟 model frameworks 📟 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Keras-DD0700?style=for-the-badge&logo=keras&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-3152A0?style=for-the-badge&logo=Matplotlib&logoColor=white"/></a>&nbsp
   <br>
 </p>
 
