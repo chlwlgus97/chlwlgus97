@@ -24,7 +24,7 @@
 
 <h3 align="center"> ⚒️ Code Editors ⚒️ </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/></a>&nbsp
   <br>
 </p>
 <!--
