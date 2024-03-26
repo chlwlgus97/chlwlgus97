@@ -2,7 +2,7 @@
 
 <h3 align="center"> ✏️ Programming Languages ✏️ </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-#FF9E0F?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-FF9E0F?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
