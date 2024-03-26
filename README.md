@@ -5,9 +5,7 @@
   <img src="https://img.shields.io/badge/Java-FF9E0F?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
-  <br)
+  <br>
 </p>
 
 <h3 align="center"> 📟 model frameworks 📟 </h3>
@@ -34,6 +32,14 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
+  <br>
+</p>
+
+<h3 align="center"> 📱 Servers 📱 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/googlecloud-ap4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>&nbsp
   <br>
 </p>
 <!--
