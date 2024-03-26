@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FF9E0F?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
   <br>
 </p>
 
@@ -40,6 +42,19 @@
   <img src="https://img.shields.io/badge/googlecloud-ap4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>&nbsp
+  <br>
+</p>
+
+<h3 align="center"> 💻 computer operating systems 💻 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/></a>&nbsp
+  <br>
+</p>
+
+<h3 align="center"> 📰 Web technology 📰 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/rss-FFA500?style=for-the-badge&logo=rss&logoColor=white"/></a>&nbsp
   <br>
 </p>
 <!--
