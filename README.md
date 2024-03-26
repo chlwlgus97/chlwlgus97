@@ -28,6 +28,14 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>&nbsp
   <br>
 </p>
+
+<h3 align="center"> 🗃️ Databases 🗃️ </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
+  <br>
+</p>
 <!--
 **chlwlgus97/chlwlgus97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
