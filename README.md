@@ -13,7 +13,7 @@
 
 <h3 align="center"> 📟 model frameworks 📟 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-DD0700?style=for-the-badge&logo=keras&logoColor=white"/></a>&nbsp
   <br>
 </p>
 
