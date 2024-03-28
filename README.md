@@ -1,4 +1,4 @@
-### Hi there 👋
+### GitHub of chlwlgus97 👋
 
 <h3 align="center"> ✏️ Programming Languages ✏️ </h3>
 <p align="center">
