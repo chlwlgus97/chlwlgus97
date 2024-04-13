@@ -1,6 +1,6 @@
 ### GitHub of chlwlgus97 👋
 
-<h3 align="center"> ✏️ Programming Languages ✏️ </h3>
+<h3 align="center"> Development related to experienced </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FF9E0F?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
   <br>
 </p>
-
-<h3 align="center"> 📟 model frameworks 📟 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Keras-DD0700?style=for-the-badge&logo=keras&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-3152A0?style=for-the-badge&logo=Matplotlib&logoColor=white"/></a>&nbsp
@@ -20,39 +18,29 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>&nbsp
   <br>
 </p>
-
-<h3 align="center"> ⚒️ Code Editors ⚒️ </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>&nbsp
   <br>
 </p>
-
-<h3 align="center"> 🗃️ Databases 🗃️ </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
   <br>
 </p>
-
-<h3 align="center"> 📱 Servers 📱 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/googlecloud-ap4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>&nbsp
   <br>
 </p>
-
-<h3 align="center"> 💻 computer operating systems 💻 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/></a>&nbsp
   <br>
 </p>
-
-<h3 align="center"> 📰 Web technology 📰 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/rss-FFA500?style=for-the-badge&logo=rss&logoColor=white"/></a>&nbsp
   <br>
