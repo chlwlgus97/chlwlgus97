@@ -1,6 +1,6 @@
 # GitHub of chlwlgus97 👋
 
-<h3 align="center" style="font-size: 40px;"> 📌 Development related to experienced </h3>&nbsp
+<h3 align="center" style="font-size: 400px;"> 📌 Development related to experienced </h3>&nbsp
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FF9E0F?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
